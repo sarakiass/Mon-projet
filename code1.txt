@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8/>
+<title>Spécialités:</title>
+</head>
+<body>
+<h1>Nos spécialités:</h1>
+<ul>
+<li>-Neurologie</li>
+<li>-Pédiatrie</li>
+<li>-Traumatologie</li>
+<li>-Rhumatologie</li>
+<li>-Pneumologie/li>
+<li>-Gériatrie</li>
+<li>-Cardiologie</li>
+</ul>
+</body>
+
+</html>
