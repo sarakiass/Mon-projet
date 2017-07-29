@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=UTF-8>
+<title>Horaires<title/>
+</head>
+<body>
+<h1>Nos horaires:</h1>
+<em>Du Lundi à Vendredi :</em>-08:00 à 19:00 
+<em>Smedi:</em>-08:00 à 12:00
+
+</body>
+
+</html>
